@@ -1,3 +1,8 @@
+##        DEPRECATED WARNING: Please change to this package: react-native-orientation-locker
+
+
+
+
 ## React Native Orientation
 [![npm version](https://badge.fury.io/js/react-native-orientation.svg)](https://badge.fury.io/js/react-native-orientation)
 
